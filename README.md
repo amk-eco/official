@@ -5,7 +5,7 @@
 - 지니블럭에서 구현하려는 Robot의 기능에 대한 API 정의
 - 지니블럭에서 사용하려는 블럭에 대한 규격 정의
   .Google Docs 스프레드시트로 규격 공유 (수신 이메일로 요청)
-  ![curcuit](https://github.com/make1everything1hj/code_factory/blob/master/circuit_line2.png)
+  ![curcuit](https://github.com/amk-eco/official/blob/master/img/robot_api.png)
 
 - 블럭 디자인 샘플(시안) 정의
 
