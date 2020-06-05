@@ -1,10 +1,12 @@
 # AI Makers Kit(AI Coding Pack) 3rd Party 공식 개발 사이트
 
 ## 지니블럭 3rd Robot 연동 개발 절차
-### Step.1 지니블록과 3rd Toy Robot 연동하기 위한 사전 준비 (수신 이메일: amk7eco@gmail.com)
+### Step.1 지니블록과 3rd Toy Robot 연동하기 위한 사전 준비 (수신 이메일: amkeco7@gmail.com)
 - 지니블럭에서 구현하려는 Robot의 기능에 대한 API 정의
 - 지니블럭에서 사용하려는 블럭에 대한 규격 정의
-  .Google Docs 스프레드시트로 규격 공유 (수신 이메일로 요청 바람)
+  .Google Docs 스프레드시트로 규격 공유 (수신 이메일로 요청)
+  ![curcuit](https://github.com/make1everything1hj/code_factory/blob/master/circuit_line2.png)
+
 - 블럭 디자인 샘플(시안) 정의
 
 -> 위에서 언급한 사항이 모두 완료 시 Step2 진행
@@ -26,4 +28,4 @@
 - AMK 공식 OS 및 업데이트에 반영하여 배포 
 
 ## 기타 문의 및 요청
-- amk7eco@gmail.com 메일로 송신 바람
+- amkeco7@gmail.com 메일로 송신 바람
